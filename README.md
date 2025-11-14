@@ -1,6 +1,7 @@
 # 🍅 TaskMasters - Frontend
 
 > Aplicación web de gestión de tareas con técnica Pomodoro desarrollada para la **Diplomatura en Desarrollo Web Full Stack** de la **UTN**.
+URl: https://front-end-task-masters.vercel.app/login
 
 ## 📋 Descripción del Proyecto
 
@@ -190,8 +191,8 @@ npm run lint       # Ejecuta ESLint para revisar el código
 
 ## 🚀 Ver el proyecto en vivo
 
-- **Frontend**: Desplegado en Vercel/Netlify (próximamente)
-- **Backend**: [https://backend-taskmasters.onrender.com](https://backend-taskmasters.onrender.com)
+- **Frontend**: [(https://front-end-task-masters.vercel.app/login)]
+- **Backend**: [(https://backend-taskmasters-production.up.railway.app)]
 
 ---
 ## � Contacto

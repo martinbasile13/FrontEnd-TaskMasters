@@ -122,6 +122,11 @@ const RegisterPage = () => {
                 onChange={cambiarDatos}
                 required
               />
+              <label className="label">
+                <span className="label-text-alt text-gray-500">
+                  La contraseña debe tener al menos 6 caracteres
+                </span>
+              </label>
             </div>
             
             <button 
