@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: ["nord"];
+  darkTheme: "nord";
+  base: true;
+  styled: true;
+  utils: true;
+}
+
+:root {
+  color-scheme: light;
+}
+
+[data-theme="nord"] {
+  color-scheme: light;
+}
